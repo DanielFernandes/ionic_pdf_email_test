@@ -1,25 +1,23 @@
-Ionic App Base
-=====================
+## Ionic Project - functionality test
+PDF, Email, LocalStorage, File Save / Read
 
-A starting project for Ionic that optionally supports using custom SCSS.
 
-## Using this project
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
+ * Save / Read - LocalStorage
+ * Creating a PDF file from screen content
+ * Email the PDF file as attachement
+ * Additionaly test for save / read text file
 
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
 
-```bash
-$ npm install -g ionic
+Note: cordova is undefined if trying in local browser or emulator, native only.
+
+```
+git clone https://github.com/cosmycx/ionic_pdf_email_test
 ```
 
-Then run:
+Some things used to make this:
 
-```bash
-$ ionic start myProject tabs
-```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
-
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
+ * [pdfmake](https://github.com/bpampuch/pdfmake)
+ * [cordova-plugin-email-composer](https://github.com/katzer/cordova-plugin-email-composer/) 
+ 
+another cool project: [ionic-tutorial-pdf](https://github.com/ashteya/ionic-tutorial-pdf).
