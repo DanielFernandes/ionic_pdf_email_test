@@ -14,7 +14,7 @@ Note: cordova is undefined if trying in local browser or emulator, native only.
 ```
 git clone https://github.com/cosmycx/ionic_pdf_email_test
 
-//run
+//
 npm install && bower install
 ```
 
