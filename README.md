@@ -21,3 +21,5 @@ Some things used to make this:
  * [cordova-plugin-email-composer](https://github.com/katzer/cordova-plugin-email-composer/) 
  
 another cool project: [ionic-tutorial-pdf](https://github.com/ashteya/ionic-tutorial-pdf).
+
+MIT
