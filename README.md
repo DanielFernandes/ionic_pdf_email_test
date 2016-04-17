@@ -15,6 +15,8 @@ Note: cordova is undefined if trying in local browser or emulator, native only.
 git clone https://github.com/cosmycx/ionic_pdf_email_test
 ```
 
+License: MIT
+
 Some things used to make this:
 
  * [pdfmake](https://github.com/bpampuch/pdfmake)
@@ -22,4 +24,3 @@ Some things used to make this:
  
 another cool project: [ionic-tutorial-pdf](https://github.com/ashteya/ionic-tutorial-pdf).
 
-MIT
