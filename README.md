@@ -9,7 +9,7 @@ PDF, Email, LocalStorage, File Save / Read
  * Additionaly test for save / read text file
 
 
-Note: cordova is undefined if trying in local browser or emulator, native only.
+Note: cordova is undefined if trying in local browser or emulator, native only!
 
 ```
 git clone https://github.com/cosmycx/ionic_pdf_email_test
